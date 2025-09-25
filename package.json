@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-qa-automation",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes End-to-End com Cypress aplicado ao site SauceDemo . O objetivo é validar fluxos críticos de e-commerce (login, compra e checkout), demonstrando práticas de QA, organização de testes e integração com pipelines de CI/CD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

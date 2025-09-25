@@ -1,0 +1,7 @@
+# Node/Cypress
+node_modules/
+cypress/videos/
+cypress/screenshots/
+reports/
+.DS_Store
+.env
